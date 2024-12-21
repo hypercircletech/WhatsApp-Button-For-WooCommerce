@@ -33,4 +33,4 @@ Adds a WhatsApp button to WooCommerce product pages after the "Add to Cart" butt
 - [Rownok Ahmed](https://github.com/rownok860/)
 
 ## License
-This plugin is licensed under the MIT License.
+This plugin is licensed under the GNU General Public License (GPL) v3.
