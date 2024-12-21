@@ -1,0 +1,29 @@
+.wpb-whatsapp-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #25d366;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.wpb-whatsapp-button:hover {
+    background-color: #1da851;
+    color: #ffffff;
+}
+
+.wpb-whatsapp-icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
