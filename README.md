@@ -9,7 +9,7 @@ Adds a WhatsApp button to WooCommerce product pages after the "Add to Cart" butt
 - Hover effect with a clean and responsive design.
 
 ## Installation
-1. Download the latest release from the [Releases Page](https://github.com/rownok860/Whatsapp-Button-For-Woocommerce/releases/).
+1. Download the latest release from the [Releases Page](https://github.com/hypercircletech/WhatsApp-Button-For-WooCommerce/releases).
 2. Go to your WordPress admin dashboard.
 3. Navigate to **Plugins > Add New > Upload Plugin**.
 4. Upload the zip file and activate the plugin.
@@ -29,8 +29,8 @@ Adds a WhatsApp button to WooCommerce product pages after the "Add to Cart" butt
 
 
 ## Author
-- **Rownok**
-- [GitHub Profile](https://github.com/rownok860)
+- **Hypercircle Technology**
+- [GitHub Profile](https://github.com/hypercircletech/)
 
 ## License
 This plugin is licensed under the MIT License.

@@ -3,8 +3,8 @@
  * Plugin Name: WhatsApp Button For WooCommerce
  * Description: Adds a WhatsApp button to WooCommerce product pages after the add-to-cart button.
  * Version: 1.2
- * Author: Rownok
- * Author URI: https://github.com/rownok860
+ * Author: Hypercircle Technology
+ * Author URI: https://hypercircle.tech
  */
 
 if (!defined('ABSPATH')) {
