@@ -29,8 +29,8 @@ Adds a WhatsApp button to WooCommerce product pages after the "Add to Cart" butt
 
 
 ## Author
-- **Hypercircle Technology**
-- [GitHub Profile](https://github.com/hypercircletech/)
+- [Hypercircle Technology](https://github.com/hypercircletech/)
+- [Rownok Ahmed](https://github.com/rownok860/)
 
 ## License
 This plugin is licensed under the MIT License.
